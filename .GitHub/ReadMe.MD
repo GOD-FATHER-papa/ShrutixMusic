@@ -191,7 +191,7 @@ SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 
 # Additional Settings
-START_IMG_URL=https://telegra.ph/file/your-image.jpg
+START_IMG_URL=https://carder.top/imagens/1778040247592-723195556.jpg
 UPSTREAM_REPO=https://github.com/NoxxOP/ShrutixMusic
 UPSTREAM_BRANCH=main
 GIT_TOKEN=your_github_token
